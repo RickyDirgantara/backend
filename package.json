@@ -1,7 +1,22 @@
 {
-	"name": "Ricky",
+	"name": "fcc-learn-npm-package-json",
+	"author": "Ricky Dirgantara",
+	"description": "Sedang belajar package.json",
+	"keywords": [
+		"HTML",
+		"CSS",
+		"PHP",
+		"Javascript",
+		"freecodecamp"
+	],
+  "license": "FreeCodeCamp",
+  "version": "1.0.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"package-name": "version",
+    "express": "4.14.0",
+    "package": "^2.10.2"
+   
+  
 	},
 	"main": "server.js",
 	"scripts": {
